@@ -1,0 +1,13 @@
+.thing01 {
+    position: sticky;
+    top: 10px;
+    background-color: yellow;
+    padding: 10px;
+}
+
+.thing02 {
+    position: relative;
+    height: 800px;
+    padding: 50px 10px;
+    background-color: #81adc8;
+}
