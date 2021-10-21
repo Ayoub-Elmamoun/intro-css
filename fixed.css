@@ -1,0 +1,11 @@
+.thing0 {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background-color: yellow;
+    padding: 10px;
+}
+
+html {
+    height: 800px;
+}
